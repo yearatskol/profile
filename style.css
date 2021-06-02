@@ -1,1 +1,27 @@
+.profileBody p{
+    font-family: Helvetica;
+    font-weight: bold;
+    max-width: 85%;
+}
+
+
+.title{
+    font font-size: 70px;
+    font-family: helvetica;
+    
+}
+
+.quals{
+    position: absolute;
+    margin-left: 7%;
+    font-family: Helvetica;
+
+}
+.qualsList{
+    font-family: Helvetica;
+    font-weight: bold;
+    margin-left: 4%;
+    position: absolute;
+    margin-top: 8%
+}
 
